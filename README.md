@@ -4,7 +4,7 @@ Use this as a starter to create Greenfoot magic.
 
 Import this project into repl.it and you will have a starting point for making games. Just add code!
 
-`MyWorld.jav`a is the starting point and a simple sample world. If you want to start in a different world,
+`MyWorld.java` is the starting point and a simple sample world. If you want to start in a different world,
 change the `main.class` in `settings/standalone.properties`. The game's title can be changed in that file
 as well.
 
